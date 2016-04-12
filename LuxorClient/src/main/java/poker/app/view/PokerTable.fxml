@@ -152,7 +152,6 @@
                   <HBox alignment="BOTTOM_CENTER" prefHeight="40.0" prefWidth="100.0" spacing="5.0" BorderPane.alignment="CENTER">
                      <children>
                         <Button mnemonicParsing="false" text="Start" />
-                        <Button mnemonicParsing="false" text="Bet" />
                         <Button mnemonicParsing="false" text="Check" />
                      </children>
                      <padding>
